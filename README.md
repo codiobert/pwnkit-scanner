@@ -2,7 +2,9 @@
 
 Check CVE-2021-4034 vulnerability
 
-This test is not 100% reliable, but it helps with a quick scan
+This test is not 100% reliable, but it helps with a quick scan.
+
+This script only works on Linux Debian based systems.
 
 ## How tu use:
 
