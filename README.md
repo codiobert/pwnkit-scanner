@@ -13,7 +13,8 @@ This test is not 100% reliable, but it helps with a quick scan.
 	wget https://raw.githubusercontent.com/codiobert/pwnkit-scanner/main/pwnkit-scanner-redhat.sh -q -O - |bash
 
 
-### Linux Distributions Affected By The Polkit Privilege Escalation Vulnerability (CVE-2021-4034):
+## Linux Distributions Affected
+### Linux Distributions Affected By The Polkit Privilege Escalation Vulnerability (CVE-2021-4034)
 The flaw is successfully tested on Ubuntu, Debian, Fedora, and CentOS with default configuration. Since Polkit is part of the default installation package in most of the Linux distributions and all Polkit versions from 2009 onwards are vulnerable., the whole Linux platform is considered vulnerable to the Polkit privilege escalation vulnerability.
 
 ## Patch vulnerability
