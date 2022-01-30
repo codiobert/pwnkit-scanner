@@ -4,11 +4,11 @@ Check CVE-2021-4034 vulnerability
 
 This test is not 100% reliable, but it helps with a quick scan.
 
-## How tu use (Linux Debian based systems):
+## How to use (Linux Debian based systems):
 
 	wget https://raw.githubusercontent.com/codiobert/pwnkit-scanner/main/pwnkit-scanner-debian.sh -q -O - |bash
 
-## How tu use (Linux Red Hat based systems):
+## How to use (Linux Red Hat based systems):
 
 	wget https://raw.githubusercontent.com/codiobert/pwnkit-scanner/main/pwnkit-scanner-redhat.sh -q -O - |bash
 
